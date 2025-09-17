@@ -87,6 +87,16 @@ El objetivo de esta práctica es aprender de manera práctica a crear imágenes,
 
 ---
 
+## Referencias
+
+1. [Documentación oficial OpenCV](https://docs.opencv.org/) – Para todas las funciones de procesamiento de imágenes y vídeo en Python.  
+2. [NumPy Documentation](https://numpy.org/doc/) – Para manejo de arrays y operaciones numéricas.  
+3. [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) – Para visualización de imágenes y gráficos.  
+4. [Tutorial Mondrian](https://www3.gobiernodecanarias.org/medusa/ecoescuela/sa/2017/04/17/descubriendo-a-mondrian/) – Inspiración para la creación de imágenes estilo Mondrian.  
+5. [Asistencia ChatGPT de OpenAI](https://chat.openai.com/) – Para orientación en la implementación de tareas y explicación de funciones.
+
+---
+
 ## Instrucciones de ejecución
 
 1. Clonar el repositorio:
