@@ -91,4 +91,4 @@ El objetivo de esta práctica es aprender de manera práctica a crear imágenes,
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/VC_P1.git
+git clone https://github.com/carlosfc02/VC_P1.git
